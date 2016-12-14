@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to my blog!"
+date:   2015-01-04 21:00:00
+categories: blog
+---
+Welcome!
+
+This is going to be my blog.
+I have recently picked ut AI again, and will write updates on how that turns out.
+The theory so far is that Erlang is a really good candidate for neural networks.
+
+I am reading an interresting book by Gene Sher called [Handbook of Neuroevolution Through Erlang][springer].
+
+
+
+[springer]: https://www.springer.com/computer/swe/book/978-1-4614-4462-6

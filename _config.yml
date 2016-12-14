@@ -1,2 +1,18 @@
-name: Roy Veshovda, Techologist
+# Site settings
+title: Roy Veshovda
+email: roy@veshovda.no
+description: > # this means to ignore newlines until "baseurl:"
+  This site will contain a few blog entries and references that
+  I find important to share.
+  Almost everything will be about computer science and AI.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://veshovda.no" # the base hostname & protocol for your site
+
+twitter_username: royveshovda
+github_username:  royveshovda
+linkedin_username: royveshovda
+
+permalink: date
+
+# Build settings
 markdown: kramdown
