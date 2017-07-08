@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Reboot"
-date:   2016-12-14 07:00:00
-categories: blog
----
-I finally got back to maintaining this blog.
-A bit more active approach will be taken.
