@@ -13,6 +13,7 @@ I am currently also enrolled in Robotics Nanodegree (RobND), and earlier this ye
 It has been a busy time for me, but I have learned a lot, I feel prepared for the next wave of artificial intelligence.
 
 More info about the Nanodegrees can be found here:
+
 AIND:
 
 [https://www.udacity.com/ai](https://www.udacity.com/ai)
