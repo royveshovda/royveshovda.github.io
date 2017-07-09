@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Mimic me"
+date:   2016-07-09 13:00:00
+categories: blog
+---
+As part of one of the assignments in the Artificial Intelligence Nanodegree at Udacity (AIND), one of the assignments where to use an API from Affectiva to detect emotions in a frame from a web camera.
+
+The result can be seen at this link: [https://mimic.veshovda.no](https://mimic.veshovda.no)
+
+The source code is also linked below.
+
+It is a nice little demo to showcase the technology. The purpose of the "game" is to mimic the same emotion as displayed to the right. in the screen. Be warned that the page will play a sound when you are successful.
+
+
+Links:
+
+Demo:
+
+[https://mimic.veshovda.no](https://mimic.veshovda.no)
+
+Source:
+
+[https://github.com/royveshovda/AIND-CV-Mimic](https://github.com/royveshovda/AIND-CV-Mimic)
+
+AIND:
+
+[https://www.udacity.com/ai](https://www.udacity.com/ai)
