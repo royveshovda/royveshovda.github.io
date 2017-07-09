@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ethereum"
+date:   2016-07-09 11:00:00
+categories: blog
+---
+Ethereum has some interesting features that I want to dig a bit deeper into. Maybe it can be used to secure IoT devices in a decentralized manner?
+
+Links:
+
+[https://www.ethereum.org](https://www.ethereum.org)
